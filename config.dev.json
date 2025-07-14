@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "mahmud0x7@gmail.com",
-    "password": "",
+    "email": "gojo.bot25@gmail.com ",
+    "password": "@gojo-bot+999",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100037951718438"
+    "61577055977574"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Hinata",
-  "prefix": ".",
+  "nickNameBot": "Gojo",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
